@@ -19,6 +19,14 @@ Um app simples e responsivo para contar repetições por série na academia. Des
 
 ---
 
+## 🌐 Deploy em Produção
+
+O projeto está disponível online através do Netlify:
+
+🔗 **[Clique aqui para acessar](https://gym-counter-app.netlify.app/)**
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**
