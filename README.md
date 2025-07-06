@@ -41,9 +41,9 @@ O projeto está disponível online através do Netlify:
 Clone o repositório e execute localmente:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/diegocarmn/gym-counter.git
 
-cd nome-do-repo
+cd gym-counter
 
 npm install
 npm run dev
